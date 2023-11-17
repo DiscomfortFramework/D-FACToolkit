@@ -1,5 +1,5 @@
-This folder contains TTP toolkit elements:
-1. TTP-Cards-compressed.pdf
-2. TTP-Board.pdf
+This folder contains D-FACTtoolkit elements:
+1. D-FACT-Cards-compressed.pdf
+2. D-FACT-Board.pdf
 It also contains post workshop questionnaire:
-3. TTP-PostWorkshopQ.pdf
+3. D-FACT-PostWorkshopQ.pdf
